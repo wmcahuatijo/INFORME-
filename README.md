@@ -24,17 +24,24 @@ Revisar distintas paginas web, para tener un mejor enfoque y conocimiento en bas
 
 #Resolución de Ejercicios
 
-![image](https://user-images.githubusercontent.com/105691698/185448749-195a8921-4670-4143-b6ba-7f4f3cac3755.png)
+![image](https://user-images.githubusercontent.com/105691698/185503428-7ffec508-bd45-4a58-a644-716faafe90ee.png)
 
-![image](https://user-images.githubusercontent.com/105691698/185448910-11a43e32-b403-4fe1-b225-063f0b384a22.png)
+![image](https://user-images.githubusercontent.com/105691698/185503494-9cf027e0-e213-4dc3-a9ea-e97ed7f2a132.png)
 
-![image](https://user-images.githubusercontent.com/105691698/185449060-03c43e09-58ed-4301-a73d-9a1e8081e7c0.png)
+![image](https://user-images.githubusercontent.com/105691698/185503522-89349f9b-7df9-4bcb-8dcb-bb1b7759715d.png)
 
-![image](https://user-images.githubusercontent.com/105691698/185449142-9539f397-9445-417b-b5ad-803f65a49d61.png)
+![image](https://user-images.githubusercontent.com/105691698/185503548-fef95c6a-1917-47fe-85ac-d68bb691772d.png)
 
-![image](https://user-images.githubusercontent.com/105691698/185449210-e5b0df0b-42b7-4333-848b-988470554a84.png)
+![image](https://user-images.githubusercontent.com/105691698/185503576-29c6ecf5-2112-457c-9a51-e9c5ab8c82f5.png)
 
-![image](https://user-images.githubusercontent.com/105691698/185449312-c0a4543b-6cb0-4806-8acd-f02166005215.png)
+![image](https://user-images.githubusercontent.com/105691698/185503616-9a06f4c3-39be-4415-80d1-f2d51978a052.png)
+
+![image](https://user-images.githubusercontent.com/105691698/185503704-6b9962d7-2f80-41d6-8600-95ccbef8a45f.png)
+
+![image](https://user-images.githubusercontent.com/105691698/185503806-c41fae2c-73d3-4bd5-87ab-b457227f5840.png)
+
+![image](https://user-images.githubusercontent.com/105691698/185503852-dc748241-74f4-42f9-b1cb-fec4611286e5.png)
+
 
 Video
 
