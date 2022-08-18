@@ -36,6 +36,25 @@ Resolución de Ejercicios
 
 ![image](https://user-images.githubusercontent.com/105691698/185449312-c0a4543b-6cb0-4806-8acd-f02166005215.png)
 
+Video
 
 
+Conclusión
+
+
+
+Bibliografia 
+
+Fundación Endesa. (17 de Agosto de 2022). Endesa. Obtenido de Endesa: 
+
+https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/corrientes-alternas-con-un-transformador-electrico
+
+MecatrónicaLATAM. (18 de Agosto de 2022). MecatrónicaLATAM. Obtenido de MecatrónicaLATAM: 
+
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
+
+
+Rubrica 
+
+![image](https://user-images.githubusercontent.com/105691698/185450034-a2d495aa-5f6d-494a-9b40-0336131f3967.png)
 
