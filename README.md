@@ -17,3 +17,6 @@ Revisar distintas paginas web, para tener un mejor enfoque y conocimiento en bas
 
 Marco Teórico 
 
+![image](https://user-images.githubusercontent.com/105691698/185445753-51042cb3-9d04-4349-83cc-5347df73ff87.png)
+
+
