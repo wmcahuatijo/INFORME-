@@ -38,6 +38,7 @@ Resolución de Ejercicios
 
 Video
 
+https://www.youtube.com/watch?v=iheUPW5DIY
 
 Conclusión
 
