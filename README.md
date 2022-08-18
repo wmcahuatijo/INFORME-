@@ -54,6 +54,8 @@ MecatrónicaLATAM. (18 de Agosto de 2022). MecatrónicaLATAM. Obtenido de Mecatr
 
 https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
 
+Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
 
 Rubrica 
 
